@@ -1,0 +1,13 @@
+﻿{
+	"name": "ConfigurableBodyParts",
+	"authorName": "Gorakh",
+	"displayName": "Configurable Body Parts",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/ConfigurableBodyParts",
+	"description": "Allows you to configure all character body parts and create horrific abominations",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2100",
+		"RiskofThunder-HookGenPatcher-1.2.1",
+		"RiskofThunder-R2API_Core-5.0.4"
+	]
+}
